@@ -20,3 +20,6 @@ Provide user access to GPIO pins and
 Powered from a +5V supply.
 
 Board is easily fabricated by the hobbyist.
+
+I used this board when developing the ATX power adaptor firmware, also on my github:
+https://github.com/istedman/ATX_adaptors
