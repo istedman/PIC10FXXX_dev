@@ -19,6 +19,12 @@ Small PCB.
 Provide user access to GPIO pins and
 Powered from a +5V supply.
 
+Compatible 8 pin PIC micro-controllers
+The author has not tested all these devices, they are listed here as they have a device pinout that matches the PCB
+
+PIC10F200, PIC10F202, PIC10F204, PIC10F206, PIC10F320 and PIC10F322.
+
+
 Board is easily fabricated by the hobbyist.
 
 I used this board when developing the ATX power adaptor firmware, also on my github:
